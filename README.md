@@ -1,3 +1,4 @@
-# LTTS_Mini_Project
+# Project Information
 
-Hello it's My mini project Repository
+* Add a brief discription about the project
+* Add the information about extra folders or files added
