@@ -2,6 +2,8 @@
 
 [![Unit testing](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml)
 
+[![CI](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml)
+
 # Project Information
 
 * Add a brief discription about the project
