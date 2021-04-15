@@ -1,6 +1,6 @@
 [![cppcheck-action](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/cpp_check.yml)
 
-[![Unit testing](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml)
+
 
 [![CI](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/abhishekcusat11/LTTS_Mini_Project/actions/workflows/main.yml)
 
