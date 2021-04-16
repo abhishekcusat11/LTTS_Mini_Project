@@ -75,3 +75,19 @@ Online services would reduce the wait time involved in availing the services of 
 ## Threats
 * Growing internet usage and customers preferring staying back home and Booking tickets.
 * Customer may come directly into online/offline ticket distribution
+
+
+## High Level Requirements:
+| ID | Description  | Status  |
+| :-----: | :-: | :-: |
+| H1 | Data management system for companies | Implemented |
+| H2 | Booking system for customers | Implemented |
+
+##  Low level Requirements:
+| ID | Description  | Status  |
+| :-----: | :-: | :-: |
+| L1 | Customer makes a booking as per requirement| Implemented |
+| L2 | Update Flight avaiability and seat availability in real time |implemented |
+| L3 | Allow new Flight Map to be updated by Admin | Implemented |
+| L4 | Store booking information for record keeping | Implemented |
+
