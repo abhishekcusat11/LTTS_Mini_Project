@@ -52,3 +52,26 @@ This has been a recuring problem since booking based services have been introduc
 ## How:
 
 Online services would reduce the wait time involved in availing the services of the users requirement and also allow for better management and provide better support from the companies side.
+
+
+
+#SWOT ANALYSIS
+
+## Strengths
+* Excellent maret penetration across the region./
+* Distribution of tickets for wide range of Bus, Train, Auto, Flight etc./
+* E-ticketing facility available for all kinds of Booking./
+* Great customer service is considered as vital part of the company’s business which help them in enhancing their brand loyalty./
+* Good online media presence and digital advertising./
+
+## Weaknesses
+* Revenue generation only from booking fees and thus obtains low margins./
+* Very high competitive market for ticket selling in India and has brand presence in local market only.
+
+## Opportunities
+*  Expanding its services globally to untapped markets where there is less competition and have first comer advantage.
+* Get into more offers and good dealings with clients to attract customers and stand against strong competition.
+
+## Threats
+* Growing internet usage and customers preferring staying back home and Booking tickets.
+* Customer may come directly into online/offline ticket distribution
